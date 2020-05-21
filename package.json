@@ -1,0 +1,16 @@
+{
+  "name": "writte",
+  "version": "1.0.0",
+  "description": "fs related procedures",
+  "main": "write.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "nam-lah",
+  "license": "ISC"
+}
