@@ -1,0 +1,17 @@
+{
+  "name": "crashcourse",
+  "version": "1.0.0",
+  "description": "crash course by traversy media - https://www.youtube.com/watch?v=fBNz5xF-Kx4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nam-lah",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
